@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "BookReader"
 include ':app'
+include ':epublib'
